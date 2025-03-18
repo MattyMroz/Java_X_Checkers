@@ -1,0 +1,49 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea_modules/
+out/
+
+# Compiled files
+*.class
+target/
+build/
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven
+log/
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Gradle
+.gradle/
+build/
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Eclipse (na wszelki wypadek)
+.classpath
+.project
+.settings/
+
+# VSCode (na wszelki wypadek)
+.vscode/ 
